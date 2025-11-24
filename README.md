@@ -79,4 +79,4 @@ Our experiments show that the best-performing model is one with the following pa
 - Hidden Layer Size: 20
 This model acheived the lowest MSE and highest predictive accuracy. 
 
-
+Refer to `RNN_Weather_Paper.pdf` for more details.
